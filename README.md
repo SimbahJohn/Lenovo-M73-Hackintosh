@@ -1,5 +1,6 @@
 # Lenovo-M73-Hackintosh
 Success Installation Big Sur Lenovo M73 Hackintosh Tower
+
 ![pd029602_m73_minitower](https://user-images.githubusercontent.com/34096635/115641165-bc76bf80-a342-11eb-836f-695e5b688334.jpg)
 ![bigsur-lm73](https://user-images.githubusercontent.com/34096635/115641321-02cc1e80-a343-11eb-80e5-dab0e5ea2a67.png)
 
