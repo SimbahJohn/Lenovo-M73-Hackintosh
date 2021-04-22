@@ -20,3 +20,4 @@ Success Installation Big Sur Lenovo M73 Hackintosh Tower
 | Mouse | Logitech G102
 | OpenCore | 0.6.8
 | SMBIOS | ~~iMac14,2 (Before BigSur)~~ iMac15,1
+| iMesseage, etc | Working !!!
